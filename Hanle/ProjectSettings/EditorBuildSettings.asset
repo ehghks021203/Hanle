@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/ARGameEP/GameChoice.unity
+    guid: 90b5264699ebd834c9c83aa1a80b9c84
+  - enabled: 1
+    path: Assets/Scenes/ARGameEP/ARGame.unity
+    guid: 0b1fa7637b945a841a70ae893aaf2e02
+  - enabled: 1
+    path: Assets/Scenes/ARGameEP/ARGame2.unity
+    guid: a182dac35519a544eb24ec749e417334
+  - enabled: 1
+    path: Assets/Scenes/ARGameEP/ARGame3.unity
+    guid: 3f60adb483e952145bbea23236480033
+  - enabled: 1
+    path: Assets/Scenes/ARGameEP/ARGame5.unity
+    guid: 5362267d366e71b439fedc4e762b0126
+  - enabled: 1
+    path: Assets/Scenes/ARGameEP/EP4_Game.unity
+    guid: 9f8e19310d629d64198e2dff7414ff09
+  - enabled: 1
+    path: Assets/Scenes/ChungjuWall/EP2 Guide.unity
+    guid: 82b3be54a9155394cb67e2d4f0790def
+  - enabled: 1
+    path: Assets/Scenes/ChungjuWall/EP2 Story End Scene.unity
+    guid: cd5ccb018549a964bbbbd65909cf3a47
+  - enabled: 1
+    path: Assets/Scenes/ChungjuWall/EP2.unity
+    guid: abaabb2d680454d4fab1542fe9491656
+  - enabled: 1
+    path: Assets/Resources/Ondal/DoHn/Scenes/EP1.unity
+    guid: 5d1c5109a49e92b43a1354b2f34a3e4e
+  - enabled: 1
+    path: Assets/Resources/Ondal/DoHn/Scenes/EP3.unity
+    guid: 104acf62dcd19a74497000e8ba09ffce
+  - enabled: 1
+    path: Assets/Scenes/ARGameEP/EP4.unity
+    guid: 5fbd6697b706b4340970cdad1c9d107d
+  - enabled: 1
+    path: Assets/Scenes/ARGameEP/EP5.unity
+    guid: 337514e0a1073764bb9c26227ecba99f
+  - enabled: 1
+    path: Assets/Scenes/ARGameEP/EP5_2.unity
+    guid: 6860c83720bacac42a318555ed3625f5
+  - enabled: 1
+    path: Assets/Scenes/PhotoZone.unity
+    guid: 7530002149f718a40b5a0e4558806b96
+  - enabled: 1
+    path: Assets/Scenes/AudioEP/AudioGuide.unity
+    guid: 323575384d5af4545b061d45865eb11b
+  - enabled: 1
+    path: Assets/Scenes/Quiz/QuizMenu.unity
+    guid: babe0b7de92ae1f4590adc1cba728609
+  - enabled: 1
+    path: Assets/Scenes/Quiz/QuizStory1.unity
+    guid: c917ea2db1ee62f4c8a802101a2fc422
+  - enabled: 1
+    path: Assets/Scenes/Quiz/QuizStory2.unity
+    guid: 4ccbde8dedaa1ab4499096d0277ef9d4
+  - enabled: 1
+    path: Assets/Scenes/Quiz/HiddenPictureQuiz1.unity
+    guid: 2923e2bf6809ae0408176058cab8f3bc
+  - enabled: 1
+    path: Assets/Scenes/Quiz/HiddenPictureQuiz2.unity
+    guid: 45d05b4c05381894bba4d47dc2e0a745
+  - enabled: 1
+    path: Assets/Scenes/Quiz/PictureSculptureQuiz1.unity
+    guid: b8f4abc733c39914f952898d5274ac64
+  - enabled: 1
+    path: Assets/Scenes/Quiz/PictureSculptureQuiz2.unity
+    guid: 13bbff5f16bdf3f4d9c17f6fac58541a
+  - enabled: 1
+    path: Assets/Scenes/Quiz/QuizStory3.unity
+    guid: 3ea220510f2144144b8b407ebfa00684
+  - enabled: 1
+    path: Assets/Scenes/Quiz/QuizStory4.unity
+    guid: b2c2a1e9efc70ff4581a282714ca5bd2
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 03d555303f39d4940af4b70c4ab07f71, type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 7fc3b77a48575cf43a47b9ebc6ebddd3, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 8ad2629cad3f3b44bb892f2588748a87, type: 2}

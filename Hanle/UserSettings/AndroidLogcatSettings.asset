@@ -1,0 +1,191 @@
+{
+    "m_SelectedDeviceId": "R3CN50H19PZ",
+    "m_SelectedPackage": {
+        "deviceId": "",
+        "name": "",
+        "processId": 0,
+        "exited": false
+    },
+    "m_SelectedPriority": 0,
+    "m_KnownPackagesForSerialization": [
+        {
+            "deviceId": "98131FFBA000TD",
+            "name": "com.Solic.Hanle",
+            "processId": 19544,
+            "exited": true
+        },
+        {
+            "deviceId": "98131FFBA000TD",
+            "name": "com.Solic.Hanle",
+            "processId": 19822,
+            "exited": true
+        },
+        {
+            "deviceId": "98131FFBA000TD",
+            "name": "com.Solic.Hanle",
+            "processId": 31979,
+            "exited": true
+        },
+        {
+            "deviceId": "98131FFBA000TD",
+            "name": "com.Solic.Hanle",
+            "processId": 977,
+            "exited": false
+        },
+        {
+            "deviceId": "98131FFBA000TD",
+            "name": "com.Solic.Hanle",
+            "processId": 1432,
+            "exited": false
+        },
+        {
+            "deviceId": "98131FFBA000TD",
+            "name": "com.Solic.Hanle",
+            "processId": 6505,
+            "exited": false
+        },
+        {
+            "deviceId": "98131FFBA000TD",
+            "name": "com.Solic.Hanle",
+            "processId": 7087,
+            "exited": false
+        },
+        {
+            "deviceId": "98131FFBA000TD",
+            "name": "com.Solic.Hanle",
+            "processId": 12205,
+            "exited": false
+        },
+        {
+            "deviceId": "98131FFBA000TD",
+            "name": "com.Solic.Hanle",
+            "processId": 12749,
+            "exited": false
+        },
+        {
+            "deviceId": "98131FFBA000TD",
+            "name": "com.Solic.Hanle",
+            "processId": 13456,
+            "exited": false
+        },
+        {
+            "deviceId": "98131FFBA000TD",
+            "name": "com.Solic.Hanle",
+            "processId": 14276,
+            "exited": false
+        },
+        {
+            "deviceId": "98131FFBA000TD",
+            "name": "com.Solic.Hanle",
+            "processId": 15166,
+            "exited": false
+        },
+        {
+            "deviceId": "98131FFBA000TD",
+            "name": "com.Solic.Hanle",
+            "processId": 16260,
+            "exited": false
+        },
+        {
+            "deviceId": "98131FFBA000TD",
+            "name": "com.Solic.Hanle",
+            "processId": 16962,
+            "exited": false
+        },
+        {
+            "deviceId": "98131FFBA000TD",
+            "name": "com.Solic.Hanle",
+            "processId": 17582,
+            "exited": false
+        },
+        {
+            "deviceId": "R3CN50H19PZ",
+            "name": "com.sec.android.app.launcher",
+            "processId": 5067,
+            "exited": false
+        },
+        {
+            "deviceId": "R3CN50H19PZ",
+            "name": "com.Solic.Hanle",
+            "processId": 25044,
+            "exited": true
+        },
+        {
+            "deviceId": "R3CN50H19PZ",
+            "name": "com.kakao.talk",
+            "processId": 30972,
+            "exited": true
+        },
+        {
+            "deviceId": "R3CN50H19PZ",
+            "name": "com.Solic.Hanle",
+            "processId": 26684,
+            "exited": true
+        },
+        {
+            "deviceId": "R3CN50H19PZ",
+            "name": "com.Solic.Hanle",
+            "processId": 31596,
+            "exited": true
+        },
+        {
+            "deviceId": "R3CN50H19PZ",
+            "name": "com.Solic.Hanle",
+            "processId": 32669,
+            "exited": true
+        }
+    ],
+    "m_Tags": {
+        "m_Entries": [
+            {
+                "m_Name": "Filter by all listed tags",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "No Filter",
+                "m_Selected": true
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Tag Control...",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Unity",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "CRASH",
+                "m_Selected": false
+            }
+        ]
+    },
+    "m_MemoryViewerState": {
+        "MemoryWindowHeight": 300.0,
+        "MemoryWindowWidth": 170.0,
+        "MemoryTypeEnabled": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "MemoryGroup": 2,
+        "Behavior": 0
+    },
+    "m_Filter": "",
+    "m_FilterIsRegularExpression": false,
+    "m_SymbolPaths": []
+}

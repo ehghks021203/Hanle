@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d58c52ff9f122a49a289c83a1611436, type: 3}
+  m_Name: PrefabDB_EP3
+  m_EditorClassIdentifier: 
+  Entries:
+  - MeshId: EP3_1
+    Prefab: {fileID: 3743648235554495169, guid: 562e63043341dc543b07ec838a9993a2, type: 3}
+  - MeshId: EP3_2
+    Prefab: {fileID: 2329674397120266136, guid: 4d0730d8a58c52d4bb7fd285d66d5a42, type: 3}
+  - MeshId: EP3_3
+    Prefab: {fileID: 3521135907701817666, guid: ddd9897a939fd384985654d3b0427411, type: 3}
+  - MeshId: EP3_4
+    Prefab: {fileID: 109699582713792742, guid: c4843078e53d42743b16e0aee2d54432, type: 3}
+  - MeshId: EP3_5
+    Prefab: {fileID: 3877260267390257199, guid: 33a30d2db55ec5841a3d18c3b283209a, type: 3}
+  - MeshId: EP3_6
+    Prefab: {fileID: 1264845620232339911, guid: 29a0c2749e3fbc94982437b9a667fabe, type: 3}
+  - MeshId: EP3_7
+    Prefab: {fileID: 7778690582083521265, guid: b09cc017b20e42c46a9f1820498970bc, type: 3}

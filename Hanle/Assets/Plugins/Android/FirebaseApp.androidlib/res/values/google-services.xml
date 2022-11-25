@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/firebase_database_url,@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id">
+  <string name="firebase_database_url" translatable="false">https://hanle-ondal-default-rtdb.asia-southeast1.firebasedatabase.app/</string>
+  <string name="gcm_defaultSenderId" translatable="false">845877231790</string>
+  <string name="google_storage_bucket" translatable="false">hanle-ondal.appspot.com</string>
+  <string name="project_id" translatable="false">hanle-ondal</string>
+  <string name="google_api_key" translatable="false">AIzaSyAqoDZNeKj1jYZW8iW2zxNl-KV1kBE0syk</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAqoDZNeKj1jYZW8iW2zxNl-KV1kBE0syk</string>
+  <string name="google_app_id" translatable="false">1:845877231790:android:42bb358c8811646d15ad3f</string>
+  <string name="default_web_client_id" translatable="false">845877231790-9llp2cv16bcs4h6gnkrql63rgb4hftkq.apps.googleusercontent.com</string>
+</resources>

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d58c52ff9f122a49a289c83a1611436, type: 3}
+  m_Name: PrefabDB_ENEMY
+  m_EditorClassIdentifier: 
+  Entries:
+  - MeshId: Enemy1
+    Prefab: {fileID: 7778690582083521265, guid: 18f6f13178a9fbc4988b37cb37f32a92, type: 3}
+  - MeshId: Enemy2
+    Prefab: {fileID: 7778690582083521265, guid: 18f6f13178a9fbc4988b37cb37f32a92, type: 3}
+  - MeshId: Enemy3
+    Prefab: {fileID: 7778690582083521265, guid: 35d36f051e9d46e4ebe46f2fc9865e98, type: 3}
+  - MeshId: Enemy4
+    Prefab: {fileID: 7778690582083521265, guid: 35d36f051e9d46e4ebe46f2fc9865e98, type: 3}
+  - MeshId: Enemy5
+    Prefab: {fileID: 7778690582083521265, guid: a2242316a9e29054cafa5669be0b1384, type: 3}

@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - GPSQuiz
+  - FxTemporaire
+  - Enemy
+  - GlobalUI
+  - TextBox
+  - includeTextBox
+  - Turtle
+  - Photo1
+  - Photo2
+  - Photo3
+  - Photo4
+  - Photo5
+  - QuizGuide
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - TextBox
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: MainUI
+    uniqueID: 3404473553
+    locked: 0
+  - name: InGameUI
+    uniqueID: 3867612265
+    locked: 0

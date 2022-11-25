@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "845877231790",
+    "project_id": "hanle-ondal",
+    "firebase_url" : "https://hanle-ondal-default-rtdb.asia-southeast1.firebasedatabase.app/",
+    "storage_bucket": "hanle-ondal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845877231790:android:42bb358c8811646d15ad3f",
+        "android_client_info": {
+          "package_name": "com.Solic.Hanle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "845877231790-9llp2cv16bcs4h6gnkrql63rgb4hftkq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqoDZNeKj1jYZW8iW2zxNl-KV1kBE0syk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "845877231790-9llp2cv16bcs4h6gnkrql63rgb4hftkq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
